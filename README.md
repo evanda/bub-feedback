@@ -1,4 +1,4 @@
-# BUB Feedback
+# BUB (Bible Utility Belt) Feedback
 
 This repository exists for one purpose: **collecting bug reports and feature requests for the Bible Utility Belt (BUB) app.** There's no source code here — just the [issue tracker](https://github.com/evanda/bub-feedback/issues).
 
