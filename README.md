@@ -1,6 +1,6 @@
 # BUB (Bible Utility Belt) Feedback
 
-This repository exists for one purpose: **collecting bug reports and feature requests for the Bible Utility Belt (BUB) app.** There's no source code here — just the [issue tracker](https://github.com/evanda/bub-feedback/issues).
+This repository exists to **collect bug reports and feature requests for the [Bible Utility Belt (BUB) app](https://www.remingtons.org/bub).** There's no source code here — just the [issue tracker](https://github.com/evanda/bub-feedback/issues).
 
 ## Reporting a bug or requesting a feature
 
@@ -12,9 +12,7 @@ All feedback goes through GitHub Issues. You'll need a free GitHub account.
 4. Write a clear, specific **title** (e.g. "Genealogy tree crashes when tapping Cain" rather than "bug").
 5. Fill in the **description** and **Submit new issue**.
 
-### What to include
-
-A succinct description of the problem (or idea) and what you'd expect. Screenshots — with or without annotations — encouraged.
+**A succinct description of the problem (or idea) and what you'd expect. Screenshots — with or without annotations — encouraged.**
 
 ## About the app
 
@@ -28,17 +26,10 @@ Six interconnected tools:
 - **Genealogy** — interactive family tree from Adam to Jesus with ~3,500 named individuals
 - **Reading Plans** — date-based schedules with checkbox progress tracking saved locally
 
-Learn more at [remingtons.org/bub](https://www.remingtons.org/bub).
+## Get the app
 
-## Installing the app
-
-Testers can install BUB directly from Google Play:
-
-**[Install BUB](https://play.google.com/apps/testing/org.remingtons.evanda.bub)**
-
-Not a tester yet? Join the testers group first, then use the install link above:
-
-**[Join bub-testers](https://groups.google.com/g/bub-testers/members)**
+- Testers can install BUB directly from Google Play:  **[Install BUB](https://play.google.com/apps/testing/org.remingtons.evanda.bub)**
+- Not a tester yet? Join the testers group first, then use the install link above: **[Join bub-testers](https://groups.google.com/g/bub-testers/members)**
 
 ---
 
